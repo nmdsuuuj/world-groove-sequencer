@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SongStructure",
+  "type": "object",
+  "properties": {
+    "sections": {
+      "type": "array",
+      "items": {
+        "$ref": "songSection.schema.json"
+      }
+    }
+  },
+  "required": [
+    "sections"
+  ]
+}

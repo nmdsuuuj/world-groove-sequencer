@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LiveTake",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "targetTrackType": {
+      "type": "string"
+    },
+    "loopLength": {
+      "type": "number"
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "$ref": "livenote.schema.json"
+      }
+    },
+    "grvDepth": {
+      "type": "number"
+    },
+    "timeScale": {
+      "type": "number"
+    },
+    "shift": {
+      "type": "integer"
+    },
+    "transpose": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "id",
+    "notes"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Pattern",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "lengthBars": {
+      "type": "number"
+    },
+    "stepsPerBar": {
+      "type": "integer"
+    },
+    "steps": {
+      "type": "array",
+      "items": {
+        "$ref": "step.schema.json"
+      }
+    }
+  },
+  "required": [
+    "id",
+    "lengthBars",
+    "stepsPerBar",
+    "steps"
+  ]
+}

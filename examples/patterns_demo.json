@@ -1,0 +1,715 @@
+{
+  "patterns": [
+    {
+      "id": "PAT_DR_A01",
+      "lengthBars": 2,
+      "stepsPerBar": 16,
+      "steps": [
+        {
+          "hasNote": true,
+          "basePitch": 36,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": true,
+          "basePitch": 36,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": true,
+          "basePitch": 36,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": true,
+          "basePitch": 36,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": true,
+          "basePitch": 36,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": true,
+          "basePitch": 36,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": true,
+          "basePitch": 36,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": true,
+          "basePitch": 36,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "hasNote": false,
+          "basePitch": null,
+          "velocity": 1.0,
+          "gate": 0.5,
+          "active": true,
+          "ornament": {
+            "mode": "plain",
+            "internalDuration": 1.0,
+            "followMode": "overlap",
+            "playMode": "oneShot",
+            "loopCount": null,
+            "events": [
+              {
+                "t": 0.0,
+                "pitch": 36,
+                "vel": 1.0,
+                "dur": 0.5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

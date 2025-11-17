@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Step",
+  "type": "object",
+  "properties": {
+    "hasNote": {
+      "type": "boolean"
+    },
+    "basePitch": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "velocity": {
+      "type": "number"
+    },
+    "gate": {
+      "type": "number"
+    },
+    "active": {
+      "type": "boolean"
+    },
+    "ornament": {
+      "$ref": "ornament.schema.json"
+    }
+  },
+  "required": [
+    "hasNote",
+    "velocity",
+    "gate",
+    "active",
+    "ornament"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SongSection",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "lengthBars": {
+      "type": "integer"
+    },
+    "trackSegments": {
+      "type": "array",
+      "items": {
+        "$ref": "trackSegment.schema.json"
+      }
+    }
+  },
+  "required": [
+    "id",
+    "lengthBars",
+    "trackSegments"
+  ]
+}
